@@ -1,0 +1,10 @@
+Question: Create a Python class named 'Rectangle'. 
+
+Requirements:
+1. The 'Rectangle' class should have an initializer method (__init__) that accepts two parameters: 'length' and 'width'.
+2. The class should have a method named 'area' that returns the area of the rectangle.
+3. The class should have another method named 'perimeter' that returns the perimeter of the rectangle.
+
+Your task is to implement this 'Rectangle' class and create an instance of 
+this class with length 5 and width 4. Then, call the 'area' and 'perimeter' methods 
+on this instance and print the results

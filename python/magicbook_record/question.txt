@@ -1,0 +1,15 @@
+Backstory: Imagine you’re a librarian at the Hogwarts School of Witchcraft and Wizardry. 
+You’ve been tasked with organizing all the magical books in the library.
+Each book has a title, an author, a publication year, and a magical level (which is a number indicating how magical the book is).
+
+To make your job easier, you decide to create a Python program using classes 
+to represent each book and perform operations on them.
+
+Problem: Design a Book class in Python with the following specifications:
+
+The Book class should have the following attributes: title, author, publication_year,
+and magical_level. The magical_level should be a number between 1 and 10.
+The Book class should have a method called display_info() that prints out all #
+the information about the book in a readable format.
+The Book class should have a method called is_rare()
+that returns True if the book’s magical_level is 8 or above, and False
