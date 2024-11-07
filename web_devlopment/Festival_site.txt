@@ -1,0 +1,8 @@
+try creating a website on your favourite festival or occasion 
+________________________________________________________________
+you can use some ides bellow:
+-------------------------------
+-create separate pages for different points 
+-create animations elaborating your festivals message 
+-try using three.js
+_________________________________________________________________
