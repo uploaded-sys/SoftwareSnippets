@@ -1,1 +1,2 @@
 using css animation or plain html greet someone with 'hare krishna'
+example deployed on repo: https://uploaded-sys.github.io/SoftwareSnippets/web_devlopment/greetwith_hare_krishna/
