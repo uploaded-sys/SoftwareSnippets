@@ -1,1 +1,2 @@
 create a portifolio website about yourself or about anyone
+example deployed on repo: https://uploaded-sys.github.io/SoftwareSnippets/web_devlopment/portfiolo/
