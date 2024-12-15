@@ -1,0 +1,3 @@
+So in this problem we have a user who is going to input a value and we have to find out how many images are formed with the value.
+The value is going to be a degree[°] and the second parameters are we are going to take is if the object is place symmetrical or asymmetrical.
+example is made and deployedy at https://uploaded-sys.github.io/AActiontest/mical
